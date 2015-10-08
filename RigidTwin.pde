@@ -17,7 +17,7 @@ void setup() {               // executed once at the begining
   size(600,600, P3D);            // window size
   frameRate(30);             // render 30 frames per second
   smooth();                  // turn on antialiasing
-  myFace =loadImage("data/jarek.jpg");  
+  myFace =loadImage("data/group.jpg");  
   bob = loadImage("data/bob.bmp");
   bob2 = loadImage("data/bob2.bmp");
   P.declare();
